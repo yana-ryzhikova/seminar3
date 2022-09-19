@@ -12,11 +12,11 @@
 ## Git add < filename>
     Команда указывает, в каком файле сохранить следующий commit. Название файла указывается с раширением. Либо можно ввести первые буквы названия файла, и при помощи клавиши Tab имя файла дозаполнится автоматически.
 
-## Git commit "message"
+## Git commit
+
+## Git commit -a
 
 ## Git commit -m "message"
-
-## Git commit -a "message"
 
 ## Git commit -am "message"
 
